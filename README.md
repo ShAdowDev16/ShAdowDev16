@@ -2,7 +2,17 @@
 
 **I love to do all kinds of stuff.  (Game Developing (Unity  Engine), Networking, Cyber Security, Modding,  AI, ...)**
 
-**Languages I know: C#, HTML, PHP, CSS, JavaScript, Python, MonkeyC, and some Batch.**
+**Languages I know:**
+
+[![I know these](https://skillicons.dev/icons?i=cs,js,html,css,php,python)](https://skillicons.dev)
+
+**Software I use:**
+
+[![I know these](https://skillicons.dev/icons?i=unity,visualstudio,vscode,blender,github)](https://skillicons.dev)
+
+**Operating systems I use:**
+
+[![I know these](https://skillicons.dev/icons?i=windows,linux,raspberrypi)](https://skillicons.dev)
 
 **Lead Developer for [Capu Company](https://capucompanyvr.com/).**
 
