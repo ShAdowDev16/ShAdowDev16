@@ -1,4 +1,4 @@
-# Hi, I am a Shadow!
+# Hi, I am Shadow!
 
 **I love to do all kinds of stuff.  (Game Developing (Unity  Engine), Networking, Cyber Security, Modding,  AI, ...)**
 
