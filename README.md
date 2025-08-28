@@ -14,9 +14,11 @@
 
 [![I know these](https://skillicons.dev/icons?i=windows,linux,raspberrypi)](https://skillicons.dev)
 
-**Lead Developer for [Capu Company](https://capucompanyvr.com/).**
+**My main projects:**
 
-**I made [Mirror VR](https://github.com/Glitched-Cat-Studios/MirrorVR) with [TheTechWiz5305](https://github.com/TheTechWiz5305).**
+-  **[Capu Company](https://capucompanyvr.com/)**
+
+- **[Mirror VR](https://github.com/Glitched-Cat-Studios/MirrorVR)**
 
 **Contact me:**
 
